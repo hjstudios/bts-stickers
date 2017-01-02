@@ -6,4 +6,4 @@ permalink: /support/
 
 Questions? Concerns? Suggestions?
 
-Contact us at [email@domain.com](mailto:email@domain.com)!
+Contact us at [studiohoneyjam@gmail.com](mailto:studiohoneyjam@gmail.com)!
